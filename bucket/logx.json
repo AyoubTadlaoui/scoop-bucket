@@ -1,0 +1,22 @@
+{
+    "version": "0.1.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/AyoubTadlaoui/GoLogX/releases/download/v0.1.5/GoLogX_0.1.5_windows_x86_64.zip",
+            "bin": [
+                "logx.exe"
+            ],
+            "hash": "0be2ce1f27887d5ce4546f8d4c15c9c929b60d5a0424e8899d6c324441d41ccf"
+        },
+        "arm64": {
+            "url": "https://github.com/AyoubTadlaoui/GoLogX/releases/download/v0.1.5/GoLogX_0.1.5_windows_arm64.zip",
+            "bin": [
+                "logx.exe"
+            ],
+            "hash": "948ee222bb121407dfe7269c0c93061c4e64da3af294826633d02fec357ea525"
+        }
+    },
+    "homepage": "https://github.com/AyoubTadlaoui/GoLogX",
+    "license": "MIT",
+    "description": "Pretty-print JSON slog logs from stdin, files, or follow mode"
+}
