@@ -1,19 +1,19 @@
 {
-    "version": "0.1.8",
+    "version": "0.1.9",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AyoubTadlaoui/GoLogX/releases/download/v0.1.8/GoLogX_0.1.8_windows_x86_64.zip",
+            "url": "https://github.com/AyoubTadlaoui/GoLogX/releases/download/v0.1.9/GoLogX_0.1.9_windows_x86_64.zip",
             "bin": [
                 "logx.exe"
             ],
-            "hash": "06faadeaf5f2c9a7175de899a9c05ccee7ca8e25556ac17f5934a3011c25ebe4"
+            "hash": "9cd3212809dcc3a071027fd4624793ba5bbf08e779f8d8c1345f8ed26ef7b284"
         },
         "arm64": {
-            "url": "https://github.com/AyoubTadlaoui/GoLogX/releases/download/v0.1.8/GoLogX_0.1.8_windows_arm64.zip",
+            "url": "https://github.com/AyoubTadlaoui/GoLogX/releases/download/v0.1.9/GoLogX_0.1.9_windows_arm64.zip",
             "bin": [
                 "logx.exe"
             ],
-            "hash": "fcfdc2c369b278ac35b39622f99be516959cbd758262c6c2a58f1dce7cd42d12"
+            "hash": "71ea7d803c85f8aa2cca9c2f4e67aba875a9ded8429e0e81c4626ac0a289a599"
         }
     },
     "homepage": "https://github.com/AyoubTadlaoui/GoLogX",
