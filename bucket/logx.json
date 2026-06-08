@@ -1,22 +1,22 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AyoubTadlaoui/GoLogX/releases/download/v0.2.1/GoLogX_0.2.1_windows_x86_64.zip",
+            "url": "https://github.com/AyoubTadlaoui/GoLogX/releases/download/v0.2.2/GoLogX_0.2.2_windows_x86_64.zip",
             "bin": [
                 "logx.exe"
             ],
-            "hash": "8df968c3cea8fb1da2d5c8663855d6b98fbf7a3777227271945a3eca145dfd8f"
+            "hash": "f080651ef740d80c3127dd7b512917174122f27f4143530065087dc3c71fbb4b"
         },
         "arm64": {
-            "url": "https://github.com/AyoubTadlaoui/GoLogX/releases/download/v0.2.1/GoLogX_0.2.1_windows_arm64.zip",
+            "url": "https://github.com/AyoubTadlaoui/GoLogX/releases/download/v0.2.2/GoLogX_0.2.2_windows_arm64.zip",
             "bin": [
                 "logx.exe"
             ],
-            "hash": "a9784950507028e6b8dd8b233ac5e7f5bfad5867d91b5962aa2cbf6a137ea5cb"
+            "hash": "6f7e8b3fcc9e96fdb99e5bac5fd23c5664259836031005d8c32bb84ae5b22852"
         }
     },
     "homepage": "https://github.com/AyoubTadlaoui/GoLogX",
     "license": "MIT",
-    "description": "Pretty-print JSON slog logs from stdin, files, or follow mode"
+    "description": "Tamper-evident, hash-chained slog audit log for Go with offline verification"
 }
